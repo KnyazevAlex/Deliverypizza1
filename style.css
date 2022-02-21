@@ -1,0 +1,97 @@
+header h1{
+    font-size: 64px;
+    text-align: center;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+      color: white;
+}
+      .lpizza1{
+        width: 1837px;
+        height: 1016px;
+      }
+header h2{
+      font-size: 36px;
+      color:#116655;
+      text-align: center;
+}
+.pizza1{
+  width: 409px;
+  height: 209px;
+}
+.pizza2{
+  width: 416px;
+  height: 209px;
+}
+.pizza3{
+  width: 416px;
+  height: 209px;
+}
+.pizza4{
+  width: 416px;
+  height: 209px;
+}  
+.footer1{
+   text-align: center;
+   font-size: 30px;
+}
+.footer2{
+  font-size: 30px;
+}
+.footer3{
+  font-size: 30px;
+}
+.logo1{
+  
+  width: 250px;
+height: 322px;
+margin: 30px;
+padding: 20px;
+}
+.logo2{
+position: absolute;
+width: 395px;
+height: 272px;
+padding:  90px;
+margin-bottom: 30px;
+}
+.logo3{
+
+position: absolute;
+width: 500px;
+height: 350px;
+padding-left:1000px;
+}
+.logo4{
+wdth: 500px;
+height: 350px;
+padding-left:600px;
+}
+.text1{
+    font-size: 35px;
+    border: 3px solid blueviolet;
+}
+.text2{
+   font-size: 45px;
+   text-align: center;
+   color: crimson;
+}
+.text3{
+     font-size: 45px;
+     text-align: center;
+}
+.sale1{
+    font-size: 35px;
+    color: black;
+}
+.sale2{
+  font-size: 35px;
+    color: black;
+}
+.sale3{
+  font-size: 35px;
+    color: black;
+}
+
+ 
